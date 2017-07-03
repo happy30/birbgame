@@ -27,6 +27,4 @@ public class FlyingEnemy : Enemy
                 break;
         }
     }
-
-
 }
